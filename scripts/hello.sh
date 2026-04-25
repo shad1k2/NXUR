@@ -1,0 +1,2 @@
+#!/bin/nsh
+echo "Hello!"
